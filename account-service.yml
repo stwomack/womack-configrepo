@@ -9,4 +9,4 @@ spring:
     hibernate:
       ddl-auto: create
 message: Welcome to Spring!
-foo: Fight the Foo, Yo!
+foo: Fight the Foo, Homie!
