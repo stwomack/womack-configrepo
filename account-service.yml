@@ -8,5 +8,5 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create
-message: Welcome to Spring!
+message: Welcome to Spring Cloud Config
 foo: Custom Message!
