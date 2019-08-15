@@ -1,7 +1,7 @@
 ---
 message: Hello Womack People!
 
-greeting: Hello %s from GitHub!
+greeting: Hello %s from Mars!
 
 security:
   basic:
